@@ -2,4 +2,6 @@
 
 ## Welcome to the website uwu 
 
-![This is an image](https://images.app.goo.gl/chsUUTE67sXnBXQw6) 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) 
+
+
